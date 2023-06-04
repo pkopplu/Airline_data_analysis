@@ -5,15 +5,15 @@ If you want to play around with the visulaization: https://www.novypro.com/proje
 
 This was a quick analysis done on a airline dataset shared in the daily learning channel from the codebasics discord. 
 
-It was a fun challenge and wanted to use Sql, PowerBI and Excel to do some preliminary analysis
+It was a fun challenge and I wanted to use Sql, PowerBI and Excel to do some preliminary analysis
 
 🎆 I quickly took the dataset, created an excel pivot chart and a graph to visualize the market share by year
 
 🎆 The data was shared as a csv flat file, then I uploaded it to sql server and wrote a query to get airline marketshare by year and saved the query result into a new table
 
-🎆 Then I opened PowerBI desktop and quickly imported my query result and the original dataset and created some neat dashboards which involved ribbon charts
+🎆 Then I opened PowerBI desktop and swiftly imported my query result and the original dataset and created some neat dashboards which involved ribbon charts
 
-🎆Quickly published my work to novypro and github
+🎆Finally published my work to novypro and github
 
 The more we practice, the better we become.
 
